@@ -3,7 +3,7 @@ import Navbar from './Navbar'
 import Banner from './Banner'
 import { Row } from './Row'
 import requests from './Request'
-import { } from './HomeScreen.css'
+import './HomeScreen.css'
 
 const HomeScreen = () => {
   return (
